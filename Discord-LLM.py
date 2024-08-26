@@ -7,7 +7,7 @@ from discord.ext import commands
 
 
 # Ensure you have your Hugging Face token set as an environment variable
-HUGGINGFACE_TOKEN = "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"
+HUGGINGFACE_TOKEN = "Your Huggin Face Token"
 
 # Load the tokenizer and model with authentication
 tokenizer = AutoTokenizer.from_pretrained("google/gemma-2-2b-it", use_auth_token=HUGGINGFACE_TOKEN)
