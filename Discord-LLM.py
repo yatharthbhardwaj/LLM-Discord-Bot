@@ -1,4 +1,4 @@
-#NzMzNjMwNTg2OTcwNzAxODU1.GgK6lF.lmuqHbhbReDlEz60aSU_lHB3lrnhZ1dCNvUmAQ
+
 # pip install accelerate
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
@@ -47,4 +47,4 @@ def generate_text_response(text):
 
 
 
-bot.run("OTgwNDQyMjM0NzYxNjYyNDg0.GgsKzu.V_mpHFcP41H8c-fk3faNiJn9pp28btAY_b9pp4")
+bot.run("Your Discord account token")
